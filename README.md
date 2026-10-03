@@ -1,4 +1,4 @@
-## HolaMundo
+## HolaMundo 🌎
 ## Validación de contraseña
 
 ## Descripción
@@ -7,14 +7,14 @@ Este proyecto contiene un programa creado en Windows Forms para validar una cont
 
 ## Requisitos de la contraseña
 
-*Al menos una letra mayúscula
-*Al menos una letra minúscula
-*Al menos un símbolo
-*Al menos un número.
+* Al menos una letra mayúscula 🔠
+* Al menos una letra minúscula 🔡
+* Al menos un símbolo  🔣
+* Al menos un número 🔢
 
 Además, se verifica que la contraseña y su confirmación sean iguales.
 
-## Tecnologías utilizadas
+## Tecnologías utilizadas 🖥️
 
 * C#
 * .NET
@@ -22,9 +22,9 @@ Además, se verifica que la contraseña y su confirmación sean iguales.
 * Visual Studio
 * Expresiones regulares (Regex)
 
-## Evidencias
+## Evidencias 📸
 
 En la carpeta evidencias se subieron las capturas de pantalla que demuestra cada caso 
-*Contraseña que no cumple con los requisitos.
-*Las contraseñas no coinciden.
-*La contraseña fue validada
+* Contraseña que no cumple con los requisitos.
+* Las contraseñas no coinciden.
+* La contraseña fue validada
